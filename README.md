@@ -8,4 +8,7 @@ Findings include
 * Successful Plays have on average Goals at $5,049 and average Pledged at $5,602. 
 * The best time to create the Kickstarter campaign is in May and Launch in July
 
-![Outcomes_based_on_Created_Date](watchdog02/kickstater-analysis/Outcomes based on Created Date.png)
+![Parent_Category_Outcomes](https://github.com/watchdog02/kickstarter-analysis/blob/658a161733fde4d1e13812b0c68aa73f8f2dd36c/Parent%20Category%20Outcomes.png)
+
+![Outcomes_based_on_Created_Date](https://github.com/watchdog02/kickstarter-analysis/blob/658a161733fde4d1e13812b0c68aa73f8f2dd36c/Outcomes%20based%20on%20Created%20Date.png)
+
